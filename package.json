@@ -62,7 +62,7 @@
     "gatsby-plugin-styled-components": "^3.1.19",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "html-to-image": "^0.1.1",
-    "jsoneditor": "^8.5.3",
+    "jsoneditor": "^9.0.2",
     "jsoneditor-react": "^3.0.0",
     "lodash": "^4.17.15",
     "memoizerific": "^1.11.3",
