@@ -84,7 +84,7 @@
     "react-spring": "^8.0.27",
     "react-syntax-highlighter": "^12.2.1",
     "reactjs-popup": "^1.5.0",
-    "recharts": "^2.0.0-beta.1",
+    "recharts": "^2.0.0",
     "simplebar-react": "^2.1.0",
     "styled-components": "^5.0.1",
     "toasted-notes": "^3.2.0",
