@@ -66,7 +66,7 @@
     "jsoneditor-react": "^3.0.0",
     "lodash": "^4.17.15",
     "memoizerific": "^1.11.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "netlify-cms-app": "^2.11.19",
     "numeral": "^2.0.6",
     "prop-types": "^15.7.2",
