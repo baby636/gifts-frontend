@@ -53,7 +53,7 @@
     "core-js": "^3.6.4",
     "crypto-js": "^4.0.0",
     "gatsby": "^2.19.17",
-    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-manifest": "^3.3.0",
     "gatsby-plugin-netlify-cms": "^4.1.40",
     "gatsby-plugin-offline": "^3.0.34",
     "gatsby-plugin-preconnect": "^1.0.5",
@@ -116,6 +116,6 @@
     "image-size": "^0.8.3",
     "moment-locales-webpack-plugin": "^1.1.2",
     "prettier": "^1.19.1",
-    "sharp": "^0.24.1"
+    "sharp": "^0.28.0"
   }
 }
